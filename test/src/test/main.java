@@ -30,5 +30,11 @@ public class main {
 	public void test7() {
 		
 	}
+	public void test8() {
+		
+	}
+	public void test9() {
+		
+	}
 	
 }
