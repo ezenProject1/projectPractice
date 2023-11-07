@@ -25,4 +25,8 @@ public class main {
 		
 	}
 	
+	public vodi test100() {
+		
+	}
+	
 }
