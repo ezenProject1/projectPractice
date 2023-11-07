@@ -25,7 +25,7 @@ public class main {
 		
 	}
 	
-	public vodi test100() {
+	public void test100() {
 		
 	}
 	
