@@ -24,5 +24,11 @@ public class main {
 	public void test5() {
 		
 	}
+	public void test6() {
+		
+	}
+	public void test7() {
+		
+	}
 	
 }
