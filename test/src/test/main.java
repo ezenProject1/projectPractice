@@ -5,7 +5,7 @@ public class main {
 	public static void main(String[] args) {
 		System.out.println(1+1);
 		System.out.println(2+2);
-		
+		System.out.println(1283*50);
 		
 	}
 	
@@ -20,6 +20,9 @@ public class main {
 		
 	}
 	public void test4() {
+		
+	}
+	public void test578325421() {
 		
 	}
 }
