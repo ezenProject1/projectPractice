@@ -29,6 +29,12 @@ public class main {
 	public void test4() {
 		
 	}
+	public void test6() {
+		
+	}
+	public void test7() {
+		
+	}
 	public void test578325421() {
 		
 	}
